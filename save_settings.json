@@ -1,0 +1,15 @@
+{
+	"id_str": true,
+	"permalink": true,
+	"screenname": true,
+	"text": true,
+	"created_at": true,
+	"retweets": true,
+	"favorites": true,
+	"retweet_users": true,
+	"likes_users": true,
+	"reply_to": true,
+	"mentions": true,
+	"hashtags": true,
+	"geo": true
+}

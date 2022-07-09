@@ -1,0 +1,8 @@
+[{
+   "maxTweets": 100,
+   "since": "2014-01-01",
+   "until": "2015-01-01",
+   "querySearch": ["cannabis", "mdma"],
+   "topTweets": false,
+   "recursion": 1
+}]
